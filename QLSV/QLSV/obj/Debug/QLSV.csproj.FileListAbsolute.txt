@@ -1,0 +1,9 @@
+G:\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+G:\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+G:\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+G:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+G:\QLSV\QLSV\QLSV\obj\Debug\QLSV.frmMain.resources
+G:\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+G:\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+G:\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+G:\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
